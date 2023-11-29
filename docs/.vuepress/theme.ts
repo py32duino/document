@@ -62,15 +62,15 @@ export default hopeTheme({
 
   plugins: {
     // You should generate and use your own comment service
-/*     comment: {
+    comment: {
       provider: "Giscus",
-      repo: "Air-duino/document",
-      repoId: "R_kgDOJ8zwvQ",
+      repo: "py32duino/document",
+      repoId: "R_kgDOKzBWXw",
       category: "comment",
-      categoryId: "DIC_kwDOJ8zwvc4CYT9x",
+      categoryId: "DIC_kwDOKzBWX84CbW98",
       mapping: "pathname",
       lazyLoading: false,
-    }, */
+    },
 
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
