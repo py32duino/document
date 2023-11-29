@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+#use pnpm please
+package-lock.json
+
+# Build files
+packages/*/lib/
+
+# Vuepress Cache
+.cache/
+# Vuepress Temp
+.temp/
+# Vuepress Output
+dist/
+
+# VS Code Config file
+.vscode/
+
+# Rollup Cache
+.rollup.cache/
+
+# Typescript build info
+*.tsbuildinfo
+
+# Coverage Files
+coverage/
+
+# macOS
+.DS_Store
+
+# Build files
+build/
+.docusaurus/
+
+# Yarn lockfile
+yarn.lock
